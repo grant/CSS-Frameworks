@@ -20,5 +20,5 @@ The most popular frontend framework
 ### [Primer](https://github.com/primer/primer) ![](https://img.shields.io/github/stars/primer/primer.svg?style=flat)
 The base coat of GitHub
 
-## [Foundation](https://github.com/zurb/foundation) ![](https://img.shields.io/github/stars/zurb/foundation.svg?style=flat)
+### [Foundation](https://github.com/zurb/foundation) ![](https://img.shields.io/github/stars/zurb/foundation.svg?style=flat)
 The most advanced responsive front-end framework in the world
