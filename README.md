@@ -17,6 +17,5 @@ TODO: Add github star badges
 ### [Bootstrap](http://getbootstrap.com/) ![](https://img.shields.io/github/stars/twbs/bootstrap.svg?style=flat-square)
 ##### The most popular frontend framework
 
-### [Primer](https://github.com/primer/primer)
-![](https://img.shields.io/github/stars/primer/primer.svg?style=flat-square)
+### [Primer](https://github.com/primer/primer) ![](https://img.shields.io/github/stars/primer/primer.svg?style=flat-square)
 The base coat of GitHub
