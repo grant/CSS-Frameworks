@@ -1,6 +1,6 @@
-# UI Kits
+# CSS Frameworks
 
-A collection of UI Kits
+A collection of the most popular CSS Frameworks
 
 - TODO: Add banner images
 
