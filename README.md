@@ -22,6 +22,10 @@ Flat UI is a beautiful theme for Bootstrap
 ### [Skeleton](http://getskeleton.com/) <a href="https://github.com/dhg/Skeleton">![](https://img.shields.io/github/stars/dhg/Skeleton.svg?style=flat)</a>
 A dead simple, responsive boilerplate.
 
+<img src="https://cloud.githubusercontent.com/assets/744973/6862860/bf593476-d404-11e4-8690-dc5a27564358.png" width="80px" align="left" hspace="10" vspace="6">
+### [Metro UI](http://metroui.org.ua/) <a href="https://github.com/olton/Metro-UI-CSS/">![](https://img.shields.io/github/stars/olton/Metro-UI-CSS.svg?style=flat)</a>
+CSS styles for build Windows 8 Metro UI stylable interface
+
 <img src="https://cloud.githubusercontent.com/assets/744973/6862197/21303bb6-d402-11e4-8161-8809f7caa0d8.png" width="80px" align="left" hspace="10" vspace="6">
 ### [Primer](http://primercss.io/) <a href="https://github.com/primer/primer">![](https://img.shields.io/github/stars/primer/primer.svg?style=flat)</a>
 The base coat of GitHub
