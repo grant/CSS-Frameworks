@@ -3,7 +3,6 @@
 A collection of UI Kits
 
 - TODO: Add banner images
-- TODO: Add github star badges
 
 ### [Purple](http://purple.herokuapp.com/)
 A UI kit for Heroku's web interfaces
@@ -25,3 +24,6 @@ The most advanced responsive front-end framework in the world
 
 ### [Grumby](https://github.com/GumbyFramework/Gumby) ![](https://img.shields.io/github/stars/GumbyFramework/Gumby.svg?style=flat)
 A Flexible, Responsive CSS Framework
+
+### [Skeleton](https://github.com/dhg/Skeleton) ![](https://img.shields.io/github/stars/dhg/Skeleton.svg?style=flat)
+A dead simple, responsive boilerplate.
