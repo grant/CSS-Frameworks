@@ -23,6 +23,5 @@ The base coat of GitHub
 ### [Foundation](https://github.com/zurb/foundation) ![](https://img.shields.io/github/stars/zurb/foundation.svg?style=flat)
 The most advanced responsive front-end framework in the world
 
-### [Grumby](https://github.com/GumbyFramework/Gumby)
-![](https://img.shields.io/github/stars/GumbyFramework/Gumby.svg?style=flat)
+### [Grumby](https://github.com/GumbyFramework/Gumby) ![](https://img.shields.io/github/stars/GumbyFramework/Gumby.svg?style=flat)
 A Flexible, Responsive CSS Framework
